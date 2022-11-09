@@ -1,0 +1,176 @@
+#title {
+  color: #fff;
+  background-color:  #ff4c68;
+  padding-bottom: 7%;
+}
+
+.backgroundColorChange {
+  color: lightblue;
+  width: 50%;
+}
+
+/* download button */
+.download-button {
+  margin: 5% 3% 5% 0;
+}
+
+body {
+  font-family: "montserrat"
+}
+
+.big-heading  {
+  font-family: "Montserrat";
+  font-size: 3rem;
+  line-height: 1.5;
+  font-weight: bold;
+}
+
+h3 {
+  font-family: "montserrat";
+  font-weight: bold;
+}
+
+p {
+  color: #8f8f8f;
+}
+
+.testimonial-text {
+  margin: auto;
+  font-family: "montserrat";
+  font-weight: bold;
+  font-size: 2.5rem;
+  line-height: 4rem;
+  width: 100%;
+}
+
+.daniel-image{
+
+  width: 9rem;
+
+}
+
+.container-fluid {
+  padding: 6% 15%;
+}
+
+/* navigation bar */
+
+.collapse-link{
+  padding-left: 400px;
+}
+
+.navbar-brand {
+  font-family: "Ubuntu";
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+/* title image */
+.title-image {
+  position: absolute;
+  width: 60%;
+  transform: rotate(25deg);
+  left: 100px;
+
+
+
+}
+
+/* features edit */
+#features {
+  position: relative;
+  padding: 100px 100px;
+  background-color: #fff;
+  z-index: 1;
+}
+
+.textalign-center {
+  text-align: center;
+}
+
+.fa-solid {
+  color: #FF7777;
+  margin-bottom: 1rem;
+}
+
+.icon:hover {
+  color: #FD3A69;
+}
+
+/* testmonials section */
+#testimonials {
+  padding: 7% 15%;
+  color: #fff;
+  background-color:  #ff4c68;
+}
+
+
+.testimonials-image {
+  border-radius: 100%;
+  width: 10%;
+  padding-top: 15px;
+  padding-left: 10px
+}
+
+.newyork {
+  padding: 0 20px;
+}
+
+/* press */
+#press {
+  background-color:  #ff4c68;
+  padding: 3%;
+}
+
+.press-image {
+  width: 15%;
+  margin: 20px 20px 50px
+}
+
+
+/* pricing section */
+
+#pricing{
+  padding: 100px;
+
+}
+
+.pricing-text {
+  padding: 3% 2%;
+}
+
+@media (max-width: 995px) {
+
+#title{
+  text-align: center;
+}
+
+  .title-image{
+    position: static;
+    transform: rotate(0);
+    width: 50%;
+
+  }
+
+}
+
+#cta {
+  background-color:  #ff4c68;
+padding: 100px;
+    color: #fff;
+  font-family: "montserrat"
+}
+
+.btn-button {
+  margin: 1rem 1rem;
+}
+
+ /* footer section */
+
+#footer{
+  padding: 100px;
+}
+
+.footer-icons{
+  margin: 1%;
+}
